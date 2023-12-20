@@ -1,7 +1,6 @@
 {
-  "name": "react-hooks-pack",
-  "private": true,
-  "version": "0.0.0",
+  "name": "peacepiece",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "build": "tsc --module commonjs && rollup -c rollup.config.js"
