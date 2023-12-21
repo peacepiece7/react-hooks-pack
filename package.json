@@ -1,10 +1,10 @@
 {
   "name": "peacepiece",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc --module commonjs && rollup -c rollup.config.js"
+    "build": "rollup -c rollup.config.js"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
