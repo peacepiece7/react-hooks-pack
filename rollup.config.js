@@ -29,7 +29,7 @@ function buildJS(input, output, format) {
     ],
     plugins: [
       json(),
-      typescript(),
+      typescript({ useTsconfigDeclarationDir: true }),
       resolve({ extensions }),
       commonjs({
         include: 'node_modules/**',

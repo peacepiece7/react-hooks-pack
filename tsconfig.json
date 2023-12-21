@@ -11,8 +11,8 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "jsx": "react",
-    "outDir": "distcjs",
-    "declarationDir": "distcjs/types",
+    "outDir": "dist",
+    "declarationDir": "dist/types",
     "typeRoots": ["node_modules/@types"]
   },
   "exclude": ["**/dist/*", "**/esm/*"],
