@@ -1,8 +1,17 @@
 {
   "name": "peacepiece",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "type": "module",
   "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "typings": "dist/index.d.ts",
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public",
+    "main": "dist/index.js",
+    "module": "dist/index.esm.js",
+    "typings": "dist/index.d.ts"
+  },
   "scripts": {
     "build": "rollup -c rollup.config.js"
   },
