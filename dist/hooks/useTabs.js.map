@@ -1,0 +1,1 @@
+{"version":3,"file":"useTabs.js","sourceRoot":"","sources":["../../src/hooks/useTabs.ts"],"names":[],"mappings":";;;AAAA,+BAAgC;AAEhC,SAAS,OAAO,CAAC,OAAe,EAAE,OAAiB;IAC3C,IAAA,KAAkC,IAAA,gBAAQ,EAAC,OAAO,CAAC,EAAlD,YAAY,QAAA,EAAE,eAAe,QAAqB,CAAA;IACzD,OAAO,EAAE,WAAW,EAAE,OAAO,CAAC,YAAY,CAAC,EAAE,cAAc,EAAE,eAAe,EAAE,CAAA;AAChF,CAAC;AAEQ,0BAAO"}
